@@ -10,4 +10,5 @@ This simple project gives you opportunity to do that with two main components
   5. HC-05 Bluetooth module
   6. 200 OHM resistor
  
+ Watch my demonstration... 
  
